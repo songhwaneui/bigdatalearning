@@ -1,0 +1,3 @@
+\B<div class="r"><a href="(.+?)ping="(.+?)sa=(.+?)source=(.+?)rct=(.+?)url=(.+?)ved=(.+?)target=(.+?)rel=(.+?)<[/]a>
+
+- ±¸±Û
